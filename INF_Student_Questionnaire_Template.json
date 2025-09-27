@@ -1,0 +1,235 @@
+{
+  "title": "Inua Nurse Footprint (INF) Student Questionnaire",
+  "description": "This questionnaire seeks to gather insights from nursing students to inform the design of a student-led platform to enhance clinical mentorship, emergency preparedness, public health outreach, volunteering, and welfare support.",
+  "questions": [
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Year of Study",
+      "options": [
+        "1st Year",
+        "2nd Year",
+        "3rd Year",
+        "4th Year"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Gender",
+      "options": [
+        "Male",
+        "Female",
+        "Prefer not to say"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Age Bracket",
+      "options": [
+        "Below 20",
+        "21\u201324",
+        "25\u201330",
+        "Above 30"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Are you currently receiving any bursary or financial aid?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Do you currently have a mentor (peer, faculty, or alumni) for clinical support?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Rate the level of support you receive during clinical placements",
+      "options": [
+        "Very Satisfactory",
+        "Satisfactory",
+        "Neutral",
+        "Unsatisfactory",
+        "Very Unsatisfactory"
+      ]
+    },
+    {
+      "type": "CHECKBOXES",
+      "question": "What type of mentorship do you prefer?",
+      "options": [
+        "Faculty-to-student",
+        "Peer-to-peer",
+        "Alumni-to-student",
+        "Group mentorship circles"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Would you be willing to participate in a structured mentorship program under INF?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Have you ever undergone any formal First Aid or CPR training?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Would you be interested in participating in student-led First Aid and Emergency Response training sessions?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "How prepared do you feel to respond to an emergency?",
+      "options": [
+        "Very Prepared",
+        "Prepared",
+        "Neutral",
+        "Unprepared",
+        "Very Unprepared"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Have you ever participated in a university or faculty-led community outreach activity?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "If yes, what kind of outreach was it?",
+      "options": [
+        "Medical Camp",
+        "Health Talk",
+        "Screening Event",
+        "Other"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "How often would you like to be involved in outreach programs through INF?",
+      "options": [
+        "Monthly",
+        "Quarterly",
+        "Annually",
+        "No interest"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Would you be interested in conducting health education in the community?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Do you understand what Universal Health Coverage (UHC) means?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Do you believe student nurses have a role in UHC awareness?",
+      "options": [
+        "Strongly Agree",
+        "Agree",
+        "Neutral",
+        "Disagree",
+        "Strongly Disagree"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Would you be willing to represent UoN Nursing in public education campaigns?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Have you ever attended a charity walk or health event as a volunteer?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Would you be interested in joining INF volunteer initiatives?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "CHECKBOXES",
+      "question": "What skills would you like to gain through volunteering?",
+      "options": [
+        "Leadership",
+        "Communication",
+        "Community Service",
+        "Public Speaking",
+        "Clinical Confidence"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Have financial difficulties ever hindered your participation in school or outreach?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "type": "CHECKBOXES",
+      "question": "What kind of support would help you participate better?",
+      "options": [
+        "Transport allowances",
+        "Meal support",
+        "Academic resources",
+        "Emergency medical funds",
+        "Accommodation support"
+      ]
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "question": "Would you apply for a transparent INF welfare fund?",
+      "options": [
+        "Yes",
+        "No",
+        "Not Sure"
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "question": "What suggestions do you have for the INF initiative?"
+    },
+    {
+      "type": "PARAGRAPH",
+      "question": "Any additional comments or ideas?"
+    }
+  ]
+}
